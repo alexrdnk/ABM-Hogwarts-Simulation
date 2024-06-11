@@ -73,10 +73,10 @@ SimulationDataTest.java
 - Java 21
 - JetBrains IntellijIDEA
 
-### Made by Oleksandr Radionenko & Anna Osokina
-
 ## Start symulacji
 Najpierw musimy otwórzyć terminal.
 <br/>My budujemy nasz projekt wpisująć `./gradlew build`.
 <br/>Żeby zacząć działanie symulacji, mamy runSim task w `build.gradle`. Więc, po prostu wpisujemy `./gradlew runSim` w terminalu.
 <br/>Możemy przetestować program za pomocą `./gradlew test`.
+
+### Made by Oleksandr Radionenko & Anna Osokina
