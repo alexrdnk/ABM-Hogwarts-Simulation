@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hogwarts.SliderDemoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-11T15:10:08" hostname="LAPTOP" time="0.007">
+  <properties/>
+  <testcase name="sliderTicksAreVisible()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <testcase name="sliderLabelsAreVisible()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <testcase name="sliderMajorTickSpacingIsCorrectForSmallRange()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <testcase name="sliderInitialValueIsCorrect()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <testcase name="sliderMaximumValueIsCorrect()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <testcase name="sliderMinimumValueIsCorrect()" classname="hogwarts.SliderDemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

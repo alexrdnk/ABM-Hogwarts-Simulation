@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hogwarts.HogwartsSimulationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-11T15:10:08" hostname="LAPTOP" time="0.001">
+  <properties/>
+  <testcase name="testAddWizard()" classname="hogwarts.HogwartsSimulationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

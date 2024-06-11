@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hogwarts.WizardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-11T15:10:08" hostname="LAPTOP" time="0.02">
+  <properties/>
+  <testcase name="wizardDoesNotMoveToInvalidPosition()" classname="hogwarts.WizardTest" time="0.01"/>
+  <testcase name="wizardDoesNotAttackFriend()" classname="hogwarts.WizardTest" time="0.001"/>
+  <testcase name="wizardMovesToValidEmptyPosition()" classname="hogwarts.WizardTest" time="0.004"/>
+  <testcase name="wizardDoesNotMoveToOccupiedPosition()" classname="hogwarts.WizardTest" time="0.002"/>
+  <testcase name="wizardAttacksEnemy()" classname="hogwarts.WizardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

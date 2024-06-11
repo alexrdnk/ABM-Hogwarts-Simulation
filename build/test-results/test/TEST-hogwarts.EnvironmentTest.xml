@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hogwarts.EnvironmentTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-06-11T15:10:07" hostname="LAPTOP" time="0.022">
+  <properties/>
+  <testcase name="setUpdateFrequency_setsCorrectFrequency()" classname="hogwarts.EnvironmentTest" time="0.011"/>
+  <testcase name="isValidPosition_returnsFalseForInvalidPosition()" classname="hogwarts.EnvironmentTest" time="0.0"/>
+  <testcase name="isValidPosition_returnsTrueForValidPosition()" classname="hogwarts.EnvironmentTest" time="0.001"/>
+  <testcase name="placeWizard_placesWizardOnGrid()" classname="hogwarts.EnvironmentTest" time="0.001"/>
+  <testcase name="moveWizard_movesWizardToNewPosition()" classname="hogwarts.EnvironmentTest" time="0.001"/>
+  <testcase name="isEmpty_returnsTrueForEmptyCell()" classname="hogwarts.EnvironmentTest" time="0.0"/>
+  <testcase name="removeWizard_removesWizardFromGrid()" classname="hogwarts.EnvironmentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

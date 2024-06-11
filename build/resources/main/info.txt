@@ -1,0 +1,13 @@
+Winner: Death Eaters
+
+Run time: 22385
+Steps: 45
+Aurors Count: 72
+Death Eaters Count: 53
+Aurors Health: 10
+Death Eaters Health: 10
+Aurors Damage: 10
+Death Eaters Damage: 17
+Harry`s souls count: 7
+Voldemort horcrux count: 9
+Weather level: 3
