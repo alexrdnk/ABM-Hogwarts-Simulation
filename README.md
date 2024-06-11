@@ -73,6 +73,8 @@ SimulationDataTest.java
 - Java 21
 - JetBrains IntellijIDEA
 
+### Made by Oleksandr Radionenko & Anna Osokina
+
 ## Start symulacji
 Najpierw musimy otwórzyć terminal.
 <br/>My budujemy nasz projekt wpisująć `./gradlew build`.
