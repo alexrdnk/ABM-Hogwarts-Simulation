@@ -46,15 +46,6 @@ Weather level: 2
 <br/>Po ustawieniu przez użytkownika wejściowych parametrów - wciskamy `Setup`, a następnie `Start`.
 <br/>Podczas działania programu magowie dwóch drużyn walczą miedzy sobą oraz dwa bohatera: `Harry Potter` i `Voldemort`.
 
-<br/>Logika poruszania się po mapie:
-```java
-MOVE
-```
-<br/>Logika atakowania:
-```java
-act
-```
-
 <br/>Też ważne jest to że wszyscy agenci mają jakieś dodatkowe warunki zachowania w zależności od warunków pogodowych.
 <br/>W przypadku zwykłych magów, oni mają szansę uniknąć szkody. Ale u bohaterów warunki pogodowe dodają dodatkowe siły.
 
